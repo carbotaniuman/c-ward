@@ -26,22 +26,6 @@ unsafe extern "C" fn signalfd() {
     todo!("signalfd")
 }
 #[no_mangle]
-unsafe extern "C" fn mount() {
-    todo!("mount")
-}
-#[no_mangle]
-unsafe extern "C" fn umount() {
-    todo!("umount")
-}
-#[no_mangle]
-unsafe extern "C" fn umount2() {
-    todo!("umount2")
-}
-#[no_mangle]
-unsafe extern "C" fn unshare() {
-    todo!("unshare")
-}
-#[no_mangle]
 unsafe extern "C" fn timerfd_gettime() {
     todo!("timerfd_gettime")
 }

@@ -93,6 +93,7 @@ mod int;
 mod jmp;
 mod locale;
 mod mkostemps;
+mod mount;
 mod nss;
 mod path;
 mod pause;

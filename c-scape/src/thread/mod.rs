@@ -3,6 +3,7 @@ mod mutex;
 mod once;
 mod rwlock;
 mod spinlock;
+mod unshare;
 
 use alloc::boxed::Box;
 use alloc::format;
